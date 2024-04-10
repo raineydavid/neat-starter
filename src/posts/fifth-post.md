@@ -6,45 +6,7 @@ date: 2024-04-10T13:52:46.193Z
 tags:
   - Tags
 ---
-
 <body class="bg-gray-900 text-white font-sans">
-
-<!-- Transparent Navbar -->
-
-<nav class="fixed w-full z-30 top-0 text-white">
-  <div class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0 py-2">
-      <div class="pl-4 flex items-center">
-          <a class="toggleColour text-white no-underline hover:no-underline font-bold text-2xl lg:text-4xl" href="#">
-              L7 Showcase
-          </a>
-      </div>
-      <div class="block lg:hidden pr-4">
-          <button id="nav-toggle" class="flex items-center p-1 text-orange-800 hover:text-gray-900">
-              <i class="fas fa-bars"></i>
-          </button>
-      </div>
-      <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden mt-2 lg:mt-0 bg-gray-900 z-20" id="nav-content">
-          <ul class="list-reset lg:flex justify-end flex-1 items-center">
-              <li class="mr-3">
-                  <a class="inline-block py-2 px-4 text-white no-underline" href="#about-me">About Me</a>
-              </li>
-              <li class="mr-3">
-                  <a class="inline-block text-gray-600 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#coding-playlist">Coding Playlist</a>
-              </li>
-              <li class="mr-3">
-                
-                  <a class="inline-block text-gray-600 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#resume">Resume</a>
-              </li>
-              <li class="mr-3">
-                  <a class="inline-block text-gray-600 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#toolbox">Toolbox</a>
-              </li>
-              <li class="mr-3">
-                  <a class="inline-block text-gray-600 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#connections">Connections</a>
-              </li>
-          </ul>
-      </div>
-  </div>
-</nav>
 
 <!-- Header with Contact Info -->
 
