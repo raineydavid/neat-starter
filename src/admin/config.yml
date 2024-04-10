@@ -32,7 +32,7 @@ collections:
         options: ["Tags", "created", "from", "config.yml"]
   - label: "Courses"
     name: "courses"
-    folder: "src/course"
+    folder: "src/courses"
     create: true
     editor:
       preview: false
