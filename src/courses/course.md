@@ -4,7 +4,7 @@ description: template
 author: LD
 date: 2024-04-10T13:52:46.193Z
 tags:
-  - Tags
+  - course
 ---
 <body class="bg-gray-900 text-white font-sans">
 
