@@ -1,7 +1,7 @@
 backend:
   # Use netlify identity as backend
   name: git-gateway
-  branch: master
+  branch: preview
   ### enable below lines for github integration ###
   # name: github
   # repo: surjithctly/neat-starter
@@ -32,7 +32,7 @@ collections:
         options: ["Tags", "created", "from", "config.yml"]
   - label: "Courses"
     name: "courses"
-    folder: "src/course"
+    folder: "src/courses"
     create: true
     editor:
       preview: false
