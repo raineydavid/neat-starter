@@ -1,9 +1,9 @@
 items:
-  - text: Menu One
+  - text: FAQ
     url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Blog
-    url: /blog
   - text: Courses
     url: /courses
+  - text: Blog
+    url: /blog
+  - text: Contact Us
+    url: "#"
